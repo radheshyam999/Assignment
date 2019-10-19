@@ -1,0 +1,64 @@
+static int count(String S){}
+static int Spacecount(String S){}
+static int Charcount(String S){}
+static String reverse(String S){}
+static String trim(String s){}
+boolean isPlandrom(String s){}
+static int allTrim(String s){}
+static int squeze(String s){//remove all space and convert in String}
+static int vowelCount(String){}
+static int length(String){}
+static int frequencyCount(String){}
+static String UperCase(String){}
+static String LowerCase(String){}
+static String UperCase(String s){}
+static String SingleOccourance(String s){}
+static String sortedOrders(String s){}
+static String sortedword(String s){}
+static String find(String s,String s2){}
+static String replace(String s,String s2,String s3){}//s1 is in s2 replace s2 with s3 
+boolean equals(String s,String s2 ){}
+boolean equalsIgnoreCase(String s,String s2){}
+void tringle(String s){
+    duacat
+    duaca
+    duac
+    dua
+    du
+    d
+}
+void tringle(String s){
+    d
+    du
+    dua 
+    duac
+    duaca
+    duacat
+}
+void tringle(String s){
+    duacat
+     uacat
+      acat
+       cat
+        at
+         t
+
+}
+void tringle(String s){
+duacat duacat
+duaca   uacat
+duac     acat
+dua       cat
+du         at 
+d           t
+         
+
+}
+int Experssion("10+20+20+20"){}
+void printNonRepeatingFirstChar(String s){}
+void revereseEachWord(String s){}
+void AllwordInReverseOrder(String s){} 
+boolean isDigitInString(String s){}
+int compare(String s,String s1){}
+void countFrecouncyOfEachWord(String s){}
+print the all combination of this word
